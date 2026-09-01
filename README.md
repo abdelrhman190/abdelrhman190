@@ -12,11 +12,11 @@ I build responsive web experiences and turn raw data into clear, useful insights
 
 ## About Me
 
-- 💻 Building modern, responsive web applications
-- 📊 Creating dashboards and data analysis workflows
-- 🧹 Interested in data cleaning, visualization, and business insights
-- 🚀 Focused on practical projects that solve real problems
-- 🤝 Open to collaboration and new opportunities
+-  Building modern, responsive web applications
+-  Creating dashboards and data analysis workflows
+-  Interested in data cleaning, visualization, and business insights
+-  Focused on practical projects that solve real problems
+-  Open to collaboration and new opportunities
 
 ## Tech Stack
 
