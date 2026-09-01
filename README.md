@@ -24,19 +24,13 @@ I build responsive web experiences and turn raw data into clear, useful insights
 **Data:** Python · Pandas · NumPy · Matplotlib · Excel  
 **Backend & Tools:** FastAPI · SQLAlchemy · Git · GitHub
 
-## Featured Projects
+## Featured Work
 
-### [SafeHands](https://github.com/abdelrhman190/safehands)
-A full web project focused on delivering a practical, user-friendly experience.
+### [Alivora — Babysitter Booking Platform](https://github.com/abdelrhman190/final)
+A multilingual babysitter booking platform with authentication, service discovery, booking flows, user profiles, and Supabase integration.
 
-### [Babysitter](https://github.com/abdelrhman190/babysitter)
-A web application for connecting families with babysitting services.
-
-### [Final Project](https://github.com/abdelrhman190/final)
-A complete project showcasing my web development skills and implementation work.
-
-### [Desert Project](https://github.com/abdelrhman190/Desert-project-1)
-A front-end project demonstrating layout, styling, and responsive design.
+### DataStudio — Data Analysis & Dashboard Platform
+A private project for desktop data analysis, dashboard building, licensing, and administration, built with Python, FastAPI, SQLAlchemy, Pandas, and Matplotlib.
 
 ## GitHub Activity
 
