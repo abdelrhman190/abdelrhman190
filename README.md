@@ -12,24 +12,28 @@ I build responsive web experiences and turn raw data into clear, useful insights
 
 ## About Me
 
--  Building modern, responsive web applications
--  Creating dashboards and data analysis workflows
--  Interested in data cleaning, visualization, and business insights
--  Focused on practical projects that solve real problems
--  Open to collaboration and new opportunities
+- Building modern, responsive web applications
+- Creating dashboards and data analysis workflows
+- Interested in data cleaning, visualization, and business insights
+- Focused on practical projects that solve real problems
+- Open to collaboration and new opportunities
 
 ## Tech Stack
 
 **Web:** HTML · CSS · JavaScript · Responsive Design  
 **Data:** Python · Pandas · NumPy · Matplotlib · Excel  
-**Backend & Tools:** FastAPI · SQLAlchemy · Git · GitHub
+**Backend & Tools:** Supabase · FastAPI · SQLAlchemy · Git · GitHub · Vercel
 
 ## Featured Work
 
-### [Alivora — Babysitter Booking Platform](https://github.com/abdelrhman190/final)
-A multilingual babysitter booking platform with authentication, service discovery, booking flows, user profiles, and Supabase integration.
+### [Alivora — Babysitter Booking Platform](https://alivora-dun.vercel.app/)
+
+A multilingual platform that helps families discover and book trusted babysitters. It includes authentication, sitter discovery, booking flows, user profiles, localization, and Supabase integration.
+
+[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://alivora-dun.vercel.app/)
 
 ### DataStudio — Data Analysis & Dashboard Platform
+
 A private project for desktop data analysis, dashboard building, licensing, and administration, built with Python, FastAPI, SQLAlchemy, Pandas, and Matplotlib.
 
 ## GitHub Activity
@@ -47,6 +51,6 @@ A private project for desktop data analysis, dashboard building, licensing, and 
 
 ### Let's build something useful together.
 
-Explore my repositories to see my latest work.
+[Explore Alivora](https://alivora-dun.vercel.app/)
 
 </div>
