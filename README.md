@@ -1,40 +1,89 @@
 <div align="center">
 
-# Hi, I'm Abdelrhman Ebrahim 👋
+# Abdelrhman Ebrahim
 
-### Web Developer · Data Analyst · Dashboard Builder
+### Junior Data & Systems Analyst | Software Developer
 
-I build responsive web experiences and turn raw data into clear, useful insights.
+MIS graduate building data-analysis tools, responsive web platforms, and database-driven applications.
 
+[![Location](https://img.shields.io/badge/Alexandria-Egypt-0f172a?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Alexandria,+Egypt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrhman_Ebrahim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-ebrahim-59b1b3246/)
+[![Email](https://img.shields.io/badge/Email-abdelrhmanebrahim%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrhmanebrahim@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdelrhman190&color=2563eb&style=flat-square)](https://github.com/abdelrhman190)
 
 </div>
 
 ## About Me
 
-- Building modern, responsive web applications
-- Creating dashboards and data analysis workflows
-- Interested in data cleaning, visualization, and business insights
-- Focused on practical projects that solve real problems
-- Open to collaboration and new opportunities
+- Junior data and systems analyst and software developer
+- Experienced across requirements analysis, database design, implementation, testing, packaging, and deployment
+- I turn raw data into useful analysis and business dashboards
+- I build bilingual, responsive platforms backed by relational databases
+- Currently completing a Bachelor of Business in Management Information Systems at Alexandria University
 
-## Tech Stack
+## Technical Skills
 
-**Web:** HTML · CSS · JavaScript · Responsive Design  
-**Data:** Python · Pandas · NumPy · Matplotlib · Excel  
-**Backend & Tools:** Supabase · FastAPI · SQLAlchemy · Git · GitHub · Vercel
+| Area | Technologies & Skills |
+| --- | --- |
+| **Data Analysis** | Excel, Python, pandas, NumPy, Matplotlib, data cleaning, exploratory analysis, descriptive statistics, dashboards |
+| **Programming & Web** | JavaScript, PHP, SQL, HTML5, CSS3, Flask, Django, Bootstrap, WordPress, REST APIs |
+| **Databases** | PostgreSQL, MySQL, Supabase, relational database design, joins, aggregation, authentication, CRUD |
+| **Systems Analysis** | Requirements gathering, process analysis, use cases, DFD, ERD, workflow design, testing, documentation |
+| **Tools** | Git, GitHub, VS Code, Tkinter, PyInstaller, Canva, Adobe Photoshop |
 
-## Featured Work
+## Selected Projects
 
-### [Alivora — Babysitter Booking Platform](https://alivora-dun.vercel.app/)
+### Alivora - Care Services Platform
 
-A multilingual platform that helps families discover and book trusted babysitters. It includes authentication, sitter discovery, booking flows, user profiles, localization, and Supabase integration.
+**Founder & Full-Stack Developer | 2025 - Present**
 
-[![Visit Live Website](https://img.shields.io/badge/Visit_Live_Website-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://alivora-dun.vercel.app/)
+A bilingual care-services platform connecting families with caregivers.
 
-### DataStudio — Data Analysis & Dashboard Platform
+- Designed user, caregiver, and administrator workflows from business requirements
+- Implemented authentication, role-based interfaces, caregiver profiles, bookings, notifications, reviews, and medical-record uploads
+- Designed PostgreSQL/Supabase data structures and managed UI/UX, testing, Git-based development, and deployment
+- Onboarded more than 15 initial users
 
-A private project for desktop data analysis, dashboard building, licensing, and administration, built with Python, FastAPI, SQLAlchemy, Pandas, and Matplotlib.
+[![Live Platform](https://img.shields.io/badge/Open_Alivora-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://alivora-dun.vercel.app/)
+
+### [Data Studio - Desktop Data Analysis Application](https://github.com/abdelrhman190/DataStudio)
+
+**Python, Tkinter, pandas, Matplotlib, PyInstaller | 2026**
+
+- Imports, cleans, transforms, and analyzes CSV and Excel datasets through a desktop GUI
+- Supports missing-value handling, duplicate removal, filtering, sorting, group-by aggregation, pivot tables, joins, and calculated columns
+- Includes descriptive statistics, correlation, outlier detection, scrollable views, and large-file workflows
+- Packaged as a standalone macOS application with PyInstaller
+
+### DR. CUKE PRO - AI Agricultural Assistant
+
+**Web Application | 2026**
+
+- Responsive agricultural assistant for plant-disease analysis, farming guidance, weather information, history tracking, and chat
+- Arabic/English interface with voice-enabled soil and water inputs
+- Designed for a consistent experience across desktop and mobile devices
+
+### Mobile Store Management System
+
+**PHP, MySQL | Academic/Personal Project**
+
+- Database-driven sales and inventory system for products, customers, stock, and transactions
+- Dynamic dashboard for monitoring sales activity and stock levels
+
+## Education & Certifications
+
+**Bachelor of Business - Management Information Systems (MIS)**  
+Alexandria University | 2022 - 2026
+
+Relevant coursework: Database Management, System Analysis and Design, Data Analytics, E-Commerce, Project Management, and Financial Accounting.
+
+- CCNA, Cisco - 2024
+- ICDL - 2024
+
+## Languages
+
+- Arabic: Native
+- English: Professional working proficiency
 
 ## GitHub Activity
 
@@ -49,8 +98,8 @@ A private project for desktop data analysis, dashboard building, licensing, and 
 
 <div align="center">
 
-### Let's build something useful together.
+### Open to junior data, systems analysis, and software development opportunities.
 
-[Explore Alivora](https://alivora-dun.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/abdelrhman-ebrahim-59b1b3246/) · [Email](mailto:abdelrhmanebrahim@gmail.com) · [Portfolio Project](https://alivora-dun.vercel.app/)
 
 </div>
