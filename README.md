@@ -46,7 +46,7 @@ A bilingual care-services platform connecting families with caregivers.
 
 [![Live Platform](https://img.shields.io/badge/Open_Alivora-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://alivora-dun.vercel.app/)
 
-### [Data Studio - Desktop Data Analysis Application](https://github.com/abdelrhman190/DataStudio)
+### Data Studio - Desktop Data Analysis Application
 
 **Python, Tkinter, pandas, Matplotlib, PyInstaller | 2026**
 
